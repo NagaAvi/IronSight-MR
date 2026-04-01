@@ -31,9 +31,13 @@ The system monitors user state (Gaze erraticness/Heart rate) to trigger **Focus 
 
 *(See /docs/logic-flow-sketch.png for the architectural diagram)*
 
+<img width="2816" height="1358" alt="FirstImg" src="https://github.com/user-attachments/assets/1675a1d3-7e34-4b98-9e91-04b69e514b8b" />
+
+<img width="1213" height="1070" alt="SecondImg" src="https://github.com/user-attachments/assets/41b6f460-544d-4676-bed8-a73d70ab4dd0" />
+
 ## 🚀 Prototyping Roadmap
 - [x] Concept Ideation & Logic Mapping
-- [ ] Spatial Interaction Model (ARKit/RealityKit)
+- [ ] Spatial Interaction Model
 - [ ] Adaptive UI Fading Logic based on simulated stressors
 - [ ] Prototype deployment on Meta Quest 3S
 
